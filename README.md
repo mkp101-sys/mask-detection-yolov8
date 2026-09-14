@@ -11,7 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](LICENSE)
 [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 
-<img src="results/before_after_comparison.png" width="90%" />
+<img src="/before_after_comparison.png" width="90%" />
 
 </div>
 
