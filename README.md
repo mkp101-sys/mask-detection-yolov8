@@ -66,8 +66,8 @@ Evaluated on a held-out **test set** — 353 images, 547 face instances:
 
 <table>
 <tr>
-<td align="center" width="50%"><b>Confusion Matrix</b><br><img src="results/confusion_matrix.png" width="100%"/></td>
-<td align="center" width="50%"><b>Precision–Recall Curve</b><br><img src="results/pr_curve.png" width="100%"/></td>
+<td align="center" width="50%"><b>Confusion Matrix</b><br><img src="/confusion_matrix.png" width="100%"/></td>
+<td align="center" width="50%"><b>Precision–Recall Curve</b><br><img src="/pr_curve.png" width="100%"/></td>
 </tr>
 </table>
 
