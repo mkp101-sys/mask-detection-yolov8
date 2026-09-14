@@ -172,9 +172,11 @@ jupyter notebook mask_detection_yolov8.ipynb
 - Not intended for safety-critical or compliance-enforcement deployment without further validation on more diverse data.
 
 <br>
+
 ## 👤 Author
  
 **Maharshi K Patel**
+
 DAIICT (Dhirubhai Ambani Institute of Information and Communication Technology) · IIRS (Indian Institute of Remote Sensing)
 
 ## 📄 License
